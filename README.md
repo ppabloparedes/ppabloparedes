@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy ppabloparedes
+# ¡Hola! 👋 
 
 Bienvenido a mi perfil de GitHub
 
