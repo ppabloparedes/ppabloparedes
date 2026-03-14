@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy ppabloparedes
 
-<!--
-**ppabloparedes/ppabloparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 💻 Desarrollador apasionado por Arduino
+- 📚 Siempre aprendiendo nuevas tecnologías
+- 🎯 Me encanta trabajar en proyectos interesantes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- Arduino
+- C/C++
+- Python
+- Git y GitHub
+
+## 📦 Mis Proyectos Destacados
+- **[Arduino-code](https://github.com/ppabloparedes/Arduino-code)** - Código Arduino para proyectos
+- **[Arduino-IDE](https://github.com/ppabloparedes/Arduino-IDE)** - Configuración y herramientas
+
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabloparedes&show_icons=true&theme=dark)
+
+## 📫 Conecta conmigo
+- 🔗 GitHub: [@ppabloparedes](https://github.com/ppabloparedes)
+- 💌 Abierto a colaboraciones
+
+---
+**¡Gracias por visitar mi perfil! 😊**
