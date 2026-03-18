@@ -2,16 +2,12 @@
 
 Bienvenido a mi perfil de GitHub
 
-## 🚀 Sobre mí
-- 💻 Desarrollador apasionado por Arduino
-- 📚 Siempre aprendiendo nuevas tecnologías
-- 🎯 Me encanta trabajar en proyectos interesantes
-
 ## 🛠️ Tecnologías
 - Arduino
-- C/C++
+- ESP32
+- Microcontroladores
 - Python
-- Git y GitHub
+- C/C++
 
 ## 📦 Mis Proyectos Destacados
 - **[Arduino-code](https://github.com/ppabloparedes/Arduino-code)** - Código Arduino para proyectos
@@ -19,10 +15,6 @@ Bienvenido a mi perfil de GitHub
 
 ## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabloparedes&show_icons=true&theme=dark)
-
-## 📫 Conecta conmigo
-- 🔗 GitHub: [@ppabloparedes](https://github.com/ppabloparedes)
-- 💌 Abierto a colaboraciones
 
 ---
 **¡Gracias por visitar mi perfil! 😊**
