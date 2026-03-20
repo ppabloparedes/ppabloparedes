@@ -1,6 +1,6 @@
 # ¡Hola! 👋 
 
-Bienvenido a mi perfil de GitHub
+Bienvenido al repositorio de Arduino
 
 ## 📦 Proyectos Destacados
 - **[Sensor-HC-SR04-con-Arduino](https://github.com/ppabloparedes/Sensor-HC-SR04-con-Arduino.git)**
