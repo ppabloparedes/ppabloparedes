@@ -5,6 +5,7 @@ Bienvenido a mi perfil de GitHub
 ## 📦 Proyectos Destacados
 - **[Arduino-code](https://github.com/ppabloparedes/Arduino-code)** - Código Arduino para proyectos
 - **[Sensor-HC-SR04-con-Arduino](https://github.com/ppabloparedes/Sensor-HC-SR04-con-Arduino.git)** - Configuración y herramientas
+- **[Sensor-HC-SR04-con-Arduino](https://github.com/ppabloparedes/Sensor-DHT11-con-Arduino.git)** - Configuración y herramientas
 
 ## 🛠️ Tecnologías
 - Arduino
