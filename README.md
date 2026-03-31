@@ -13,8 +13,5 @@ Bienvenido al repositorio de Arduino
 - Python
 - C/C++
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ppabloparedes&show_icons=true&theme=dark)
-
 ---
 **¡Gracias por visitar mi perfil! 😊**
