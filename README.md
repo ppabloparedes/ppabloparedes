@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de Arduino
 
-## 📦 Proyectos Destacados
+## 📦 Pruebas de Módulos Destacados
 - **[Sensor-HC-SR04-con-Arduino](https://github.com/ppabloparedes/Sensor-HC-SR04-con-Arduino.git)**
 - **[Sensor-DHT11-con-Arduino](https://github.com/ppabloparedes/Sensor-DHT11-con-Arduino.git)**
 
